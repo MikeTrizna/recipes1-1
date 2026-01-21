@@ -1,8 +1,13 @@
-# recipes1
+##Initial Recipe:
 
-blah blah
+Ingredients:
+- 2 avocados
+- 1 lime
+- 2 tsp salt
 
-## blahhh
-title
----
-blah
+##Instructions:
+- cut and mash avocados
+- chop onion
+- squeeze lime
+- add salt
+- and mix well
